@@ -15,18 +15,17 @@
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
-
 <h2>The Institute for Ethical AI & ML</h2>
 <h4>Insights, risks and impact of AI & ML in industry</h4>
 
 <table class="bio-table">
   <tr>
     <td style="float: left">
-        <br>
         ![portrait](images/alejandro.jpg)
         <br>
         <font style="font-weight: bold; color: white">Alejandro Saucedo</font>
         <br>
+        <img src="images/twitter.png" style="background: transparent !important; height: 60px; float: left; margin: -5px -100px 0 10px " alt=""> <font style="font-weight: bold; color: cyan">@AxSaucedo</font>
         <br>
     </td>
     <td style="float: left; color: white; font-size: 0.7em;">
@@ -60,21 +59,73 @@
   </tr>
 </table>
 
+
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background" -->
+## About the institute
+
+We are a UK-based research centre formed by cross functional teams of applied STEM researchers, ethicists, and domain experts. 
+<br>
+<br>
+
+We develop open source tools and industry standards to introduce accountability and mitigate risks in industrial use of emerging technologies.
+
+[NEXT]
+<!-- .slide: data-background="images/network-background.jpg" class="background smallquote" style="color: white" -->
+
+## AI-RFX Procurement Framework
+
+<div class="left-col">
+<img src="images/rfx-cover.png" alt="" style="background: transparent !important">
+</div>
+<div class="right-col">
+<ul>
+    <br>
+    <li>
+        A set of templates that support industry stakeholders procuring AI systems. 
+    </li>
+    <br>
+    <li>
+        Built using our "Machine Learning Maturity Model".
+    </li>
+</ul> 
+
+</div>
+
+[NEXT]
+
+<!-- .slide: data-background="images/network-background.jpg" class="background smallquote"  style="color: white"-->
+## Open Source XAI Platform
+
+<div class="left-col">
+<img src="images/xai.png" alt="" style="background: transparent !important">
+</div>
+<div class="right-col">
+<ul>
+    <br>
+    <li>
+        Open source platform to manage your data science processes in development and production.
+    </li>
+</ul> 
+
+</div>
+
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
 
 ## Today
 
-> The Institute & the Ethical AI & ML
-> <br>
-> <br>
 > Intuition on AI & ML
+> <br>
+> <br>
+> Hands on live example
 >
-> AI-enabled Cyber
+> Risks in ML
 > 
-> Mitigations
+> Impact in industry
 
-#### Followed by a deep dive discussion
+#### Interactive session - feel free to ask Questions!
 
 [NEXT]
 <!-- .slide: data-background="images/particles.gif" class="background smallquote" -->
@@ -400,11 +451,15 @@ You are now an expert on Machine Learning!
 * Twitter discussions
 * Linkedin Titles
 
+[NEXT SECTION]
+<!-- .slide: data-background-color="#262931" -->
+
+# 2. A practical example
 
 [NEXT SECTION]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
-# 4. Challenges in AI
+# 3. High level risks
 
 
 [NEXT]
@@ -423,7 +478,7 @@ You are now an expert on Machine Learning!
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 ## Using bots on top of voice
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/bd1mEm2Fy08?rel=0&amp;controls=0&amp;showinfo=0&amp;start=60&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/D5VN56jQMWM?rel=0&amp;controls=0&amp;showinfo=0&amp;start=60&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 [NEXT]
@@ -463,48 +518,35 @@ You are now an expert on Machine Learning!
 
 [NEXT]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+## Data is more personalised
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/pon3zOxMH8M?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;start=18&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## How do we defend?
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/HluANRwPyNo?rel=0&amp;controls=0&amp;showinfo=0&amp;start=0&amp;autoplay=1&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## (Company owned by Sergey Brin's wife)
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## Regulatory frameworks playing catch-up (e.g. GDPR)
+<iframe data-src="https://www.crowdemotion.co.uk/" style="width: 100%; height: 50vh"></iframe>
+
+
+[NEXT]
+<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+
+## What does this really look like in practice?
+<iframe width="560" height="315" data-src="https://www.youtube.com/embed/HluANRwPyNo?rel=0&amp;controls=0&amp;showinfo=0&amp;start=0&amp;autoplay=1&amp;mute=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Disclaimer: It's not that exciting
 
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+[NEXT SECTION]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
-## But Machine Learning will help
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-
-## Cyberattacks are in your data
-
-* Application logs
-* Server logs
-* Network logs
-* Login information
-* Security footage
-* And more...
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-
-## It's not easy to find
-
-* There is TONS of data
-* A lot of it is not structured
-* It's almost impossible for a human
-* Real-time alerts are required
-* Anomality detection is hard
+# 4. Impact in industry
 
 
 [NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## But ML allows this
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/b6Hf1O_vpwQ?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;start=18&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 ## Core ML Applications
 
@@ -518,97 +560,8 @@ You are now an expert on Machine Learning!
 * Unstructured data processing
 
 
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## Data is more personalised
-<iframe width="560" height="315" data-src="https://www.youtube.com/embed/pon3zOxMH8M?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;start=18&amp;mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## (Company owned by Sergey Brin's wife)
-<!-- .element: class="fragment" data-fragment-index="1" -->
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## The public (and staff) need to be educated
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-Would you let staff bring strangers to meetings?
-
-## What about these?
-
-
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## Researchers are Expensive...
-<iframe data-src="https://www.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html" style="width: 100%; height: 60vh"></iframe>
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## And so are cyber consultants
-<iframe data-src="https://securious.co.uk/cybersecurity-experts-charge-10000-a-day-to-protect-uks-top-firms/" style="width: 100%; height: 60vh"></iframe>
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## AI & Cyber-intel
-
-## Mostly in the private sector
-<br>
-
-Article: 
-<a href="https://www.nytimes.com/2018/05/04/technology/facebook-artificial-intelligence-researchers.html">
-    Facebook Adds A.I. Labs in Seattle and Pittsburgh, Pressuring Local Universities
-</a>
-
-<br>
-### This is risky for nation states...
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-
-## Regulation and public frameworks
-# Are critical
-
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-
-## But still far (e.g. GDPR)
-<iframe data-src="https://www.crowdemotion.co.uk/" style="width: 100%; height: 50vh"></iframe>
-
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-
-“Artificial intelligence is the future, not only for us, but for all of humankind. It comes with colossal opportunities, but also threats that are difficult to predict. Whoever becomes the leader in this sphere will become the ruler of the world.”
-
-## Can you guess who said this?
-
-
-
-[NEXT]
-<!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
-## Let's see how this fits with the industry
-
-
-[NEXT SECTION]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# 4. Next session: 
-# AI-Cyber impact in industry
-
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Overview
-
-Analysis of applications, players and impact of AI enabled cybersecurity across sectors
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
 
 ## Sectors:
 
@@ -626,70 +579,174 @@ Analysis of applications, players and impact of AI enabled cybersecurity across 
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
 
 
-## Sectors for deep dive:
+## Case studies today
 
-| | | | |
-| - | - | - | - |
-| Manufacturing | Defense | Agriculture | Healthcare/Pharma |
-| Politics | Transport | Education | Finance | 
-| | | | |
+| | | |
+| - | - | - |
+| Finance | Insurance | Property |
+| | | |
 
 
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Challenge
+## Global US Investment Bank
 
-
-Assessment of impact in sector
-
-* Availability of data
-* Ripeness for disruption
+* Regulatory compliance review required by regulator
+* Millions of contracts across different sources
+* Currently analysed manually
+* Analysis requires legal domain knowledge
+* Human error is in existence
+* Process inefficient, expensive and prompt to error
 
 [NEXT]
 <!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Solution
+## Global US Investment Bank
 
-### Deep dive discussion
-* Select one of the AI applications
-* Pick an industry
-* Let'As deep dive on economic dangers
-* Find out key actions that could be taken
+* Data integration to ingest from multiple sources
+* Optical character recognition (OCR) to convert images
+* Legal domain expertise converted into algorithmic inputs
+* Machine learning model trained with examples
+* Machine plus human review introduced
 
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Impact
+## Global US Investment Bank
+
+* Increase in accuracy (70% -> 98%)
+* Increase in speed from months to real time BAU
+* Legal domain expertise commoditised
+* In-depth metrcis on paralegal performance
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+## Jevons Paradox
+
+<img src="images/train.gif">
+
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Challenge
+## Global Insurance Organisation
+
+* Thousands of insurance claims coming in
+* Insurance claims analysed by domain experts
+* Currently analysed manually
+* Analysis requires domain expert knowledge
+* Human error present
+* Process inefficient, expensive and prompt to error
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Solution
+## Global Insurance Organisation
+
+* Email ingestion through data pipelines 
+* Attachments downloaded and processed
+* Insurance domain expertise converted into algorithmic inputs
+* Machine learning model trained with examples
+* Machine plus human review introduced
+
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Impact
+## Global Insurance Organisation
+
+* Increase in accuracy (70% -> 98%)
+* Increase in speed from hours to real time BAU
+* Large number of simple cases automated
+* Insurance domain expertise commoditised
+* Deeper insight on performance
+
+
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Challenge
+## Property Development
+
+* Architect comes to client and suggests
+* Hypothesis of good architecture, but can't check
+* Builings developed in isolation
+* Metrics to make decisions are only bi-/tri-variate
+* Meeting space specifically is important but number of rooms is unknown
+* Meetings are built in different formats
+* Too many / too little rooms has bad effects
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Solution
+## Property Development
+
+* Taking all the past buildings as a group of experiments
+* Going back understand features for success / failure
+* Take trends and learn from past buildings to make new buildings better
+* Use historical data of current buildings and layouts
+* Build labels of how space is used 
+* Train machine learning model to learn model
+* Predictions can tell what meetings to use and how many to use
+
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Impact
+## Property Development
+
+<img src="images/ww1.png">
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# Impact
+## Property Development
+
+<img src="images/ww2.png">
+
+[NEXT]
+<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
+# General ML Flow
+
+<img src="images/ww3.png">
 
 
 [NEXT SECTION]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallest" style="color: white" -->
 # 5. Wrapping up
 
+
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background smallquote" -->
 
 ## Today we covered
 
-> The Institute & the Ethical ML Pledge
-> <br>
-> <br>
 > Intuition on AI & ML
+> <br>
+> <br>
+> Hands on live example
 >
-> AI-enabled Cyber
+> Risks in ML
 > 
-> Mitigations
+> Impact in industry
 
-#### Next session: Deep dive
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 ### Code
-https://github.com/axsauze/cybersecurity-machine-learning
+https://github.com/EthicalML/ai-impact-and-risks
 
 ### Slides
-https://axsauze.github.io/cybersecurity-machine-learning
+https://EthicalML.github.io/ai-impact-and-risks
 
 
 [NEXT]
 <!-- .slide: data-background="images/network-background.jpg" class="background" -->
 
 <h2>The Institute for Ethical AI & ML</h2>
-
-<h4>Cybersecurity in an AI enabled world</h4>
+<h4>Insights, risks and impact of AI & ML in industry</h4>
 
 <table class="bio-table">
   <tr>
@@ -698,284 +755,38 @@ https://axsauze.github.io/cybersecurity-machine-learning
         <br>
         <font style="font-weight: bold; color: white">Alejandro Saucedo</font>
         <br>
+        <img src="images/twitter.png" style="background: transparent !important; height: 60px; float: left; margin: -5px -100px 0 10px " alt=""> <font style="font-weight: bold; color: cyan">@AxSaucedo</font>
+        <br>
     </td>
     <td style="float: left; color: white; font-size: 0.7em;">
 
         <br>
-        Head of Deployed Engineering
+        Chief Scientist
+        <br>
+        <a style="color: cyan" href="http://e-x.io">The Institute for Ethical AI & ML</a
+        <br>
+        <br>
+        <br>
+        <hr>
+        <br>
+        Head of Solutions Eng. & Sci.
         <br>
         <a style="color: cyan" href="http://eigentech.com">Eigen Technologies</a>
         <br>
         <br>
-        Chairman
+        Chief Technology Officer
         <br>
-        <a style="color: cyan" href="http://ethical.institute">The Institute for Ethical AI & ML</a>
-        <br>
-        <br>
-        Fellow (AI, Data & ML)
-        <br>
-        <a style="color: cyan" href="#">The RSA</a>
+        <a style="color: cyan" href="#">Hack Partners</a>
         <br>
         <br>
-        Advisor
+        Software Engineer
         <br>
-        <a style="color: cyan" href="http://teensinai.com">TeensInAI.com initiative</a>
-        <br>
+        <a style="color: cyan" href="#">Bloomberg LP.</a>
 
     </td>
   </tr>
   <tr>
   </tr>
 </table>
-
-[NEXT SECTION]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# 6. Appendix
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Manufacturing
-
-_note_
-* Predict failure and recommend proactive maintenance for equipment
-* Optimize complex manufacturing processes in real time
-* Predict future demand trends in supply chain
-* Identify design problems in pre-production to reduce ramp-up time
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Agriculture 
-
-_note_
-* Optimise growth techniques with reinforcement learning
-
-* Optimise pricing in real time based on future market, weather, etc
-
-* Predict yield for farming or production leveraging data
-
-* Predict demand trends for production decisions
-
-* Automate produciton vehicles
-
-Examples:
-Observe tech
-agrosight
-
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Healthcare / Pharma
-_note_
-* Automatic disease detection from sources across the body
-
-* Continuous monitoring of health for personalised prevention
-
-* Triage patient cases during hospital admission using patient data
-
-* Optimise design of clinical trials, including label writing/patient selection
-
-* Reduce experiments (ie animal testing) through big data analysis
-
-* Identify targeted patient sub-groups that are underserved
-
-* Reduce cost and time to market for developing medicine
-
-Examples:
-Babylon
-Improbable
-GKN
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Politics
-_note_
-* Predict risk of ilicit activity or terrorism using historical crime data and other statistics
-
-* Optimize public policy opinions by taking into account greater set of complex interactions
-
-* Personalise public services to target individual citizens based on multi-modal data
-
-* Optimize procurement strategy to reduce costs for large government agencies (e.g. defense)
-
-* Optimise labor and budget allocation for publicly provided services
-
-* Monitor and automate processes in public prisons to reduce costs
-
-Examples:
-
-Cambridge Analytica
-AdBrain
-Magic Pony Technology
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-
-# Transport 
-_note_
-* Optimise pricing and scheduling based on real-time demand updates (e.g. airlines, trucking, etc)
-
-* Predict failure and recommend proactive maintenance for vehicles
-
-* Enable autonomous road/flying vehicles to become commodatised within cities
-
-* Open the possibility for intelligent infrastructure communicating with autonomous vehicles and trains
-
-* Automate operational processes of loading, driving, checking, etc. vehicles
-
-Examples:
-Blue Vision Labs
-Tesla / Hyperloop
-Sky.ai
-Five.AI
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Education 
-_note_
-* Automation of operational tasks for teachers, staff and even parents
-
-* Personalised education methods optimising individual learning preferences 
-
-* Drastically increase the amount of information taught in less time
-
-* Educational material is restructured to optimise for long-term performance
-
-* Tutoring will be replaced with chatbots and intelligent systems
-
-Examples:
-TeensInAI Initiative
-Linguimi
-Coursera
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Defense 
-_note_
-* Complex systems to enhance and counteract autonomous drones
-
-* Intelligent automated online warfare will increase drastically
-
-* Smart weapons will enable super-human skills in battle-field (auto-aiming, robotic extensions, etc)
-
-* Increase psychological warfare via new communication mediums
-
-* Strategic prediction advice when making decisions
-
-Examples:
-Palantir
-Darktrace
-The Eng Company
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Finance
-
-_note_
-* Identify fraudulent activity using customer transactions and other relevant data
-
-* Evaluate customer credit risk using large amounts of data
-
-* Predit more accurate price movements based on greater amount of data
-
-* Automate regulatory exercises by gathering and analysing structure data
-
-Examples:
-Monzo
-Revolut
-Transferwise
-
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-## [Demo](http://e-x.io/)
-
-<iframe style="height: 60vh; width: 100%;" data-src="http://e-x.io/">
-</iframe>
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-
-A lot of this sounds good, but
-
-#### how's it going to affect the world?
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-# Implications
-* Real time optimisation / Predictive analytics
-* Strategic optimisation / Forecasting
-* Radical personalisation
-* Data analysis from (real) big data
-* Automation of operational processes
-* Anomality detection
-* Information retrieval
-* Unstructured data processing
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-# Implications
-* Automation of processes and people
-* New generation cybersecurity (talk 21st)
-* New unsuspected national threats 
-* Danger of algorithmic bias (beyond human traits)
-* Disasters due to lack (and misunderstanding) of regulation
-* Dangers of "staying behind" in the AI race
-* Increased efficiency, reduction of cost
-
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-## Jevons Paradox
-
-<img src="images/train.gif">
-
-_note_
-In 1865, William Jevons described:
-
-Machines that were using coal for fuel became more efficient
-
-They needed less coal to complete a given task
-
-Because machines were more cost effective they were before
-
-their use became more widespread and demand rised
-
-despite each machine requiring less coal to operate
-
-the total amount of coal required to power machines is greater and not less
-
-[NEXT]
-<!-- .slide: data-background="images/spaceline.jpg" class="background smallquote" style="color: white" -->
-
-### But is this still valid?
-
-Yes, we have seen this with electricity
-
-But also with mobile phones, cars, computers, TVs, etc.
- 
-
-## AI Policy around the world
-
 
 
