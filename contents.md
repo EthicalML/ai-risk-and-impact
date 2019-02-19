@@ -456,6 +456,15 @@ You are now an expert on Machine Learning!
 
 # 2. A practical example
 
+(Slides are part of the "Explainability & Bias" presentation)
+<h2>
+<a href="https://ethicalml.github.io/explainability-and-bias/#/1/3" target="_blank">
+Click here for the slides
+</a></h2>
+
+<br>
+
+
 [NEXT SECTION]
 <!-- .slide: data-background="images/space.jpg" class="background smallquote" style="color: white" -->
 
